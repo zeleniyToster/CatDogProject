@@ -17,6 +17,48 @@
       "name": "Саша",
 	  "photoURL": "https://sun7-6.userapi.com/6kOhAxb0yQhWUwrAl6Lfq5Z7zhziu3ltA8nZUA/4uCr1srfV1w.jpg",
 	  "info": "Молодая, озорная непоседа"
+    },
+	{
+      "id": 4,
+      "name": "Мартин",
+	  "photoURL": "https://sun7-8.userapi.com/4SCgcHD2P93qS3mEqWWNEPfHSSze7RnLUW9Kyg/vRpjFZRybrg.jpg",
+	  "info": "Ласковый кот, молодой, но хочет быть одним любимцем"
+    },
+	{
+      "id": 5,
+      "name": "Стелла",
+	  "photoURL": "https://sun7-7.userapi.com/JICzBgOkYFKBZgCZR2IdvjQ5DnhIEr6HVsxwMA/GiEazxkKA1Q.jpg",
+	  "info": "Сестрёнка Бони"
+    },
+	{
+      "id": 6,
+      "name": "Балто",
+	  "photoURL": "https://sun7-6.userapi.com/GpqTKBEYNYKcqJoWQGKVJCmb11VM8iHq0f3u3A/oNfDyhuDUBg.jpg",
+	  "info": "Мужчина в расцвете сил"
+    },
+	{
+      "id": 7,
+      "name": "Василёк",
+	  "photoURL": "https://sun7-9.userapi.com/QkDHACmWJYiR4n4CrseCUCw2orf-Y4mv9chvIg/Ufpv47_aoa8.jpg",
+	  "info": "Мужчина в расцвете сил, есть проблемы со здоровьем"
+    },
+	{
+      "id": 8,
+      "name": "Андрейка",
+	  "photoURL": "https://sun7-9.userapi.com/zqHVyBh9sP2-YopR8xzJ9o6ry2B8epn7ZOb7UQ/Gp_9RQ7eXs8.jpg",
+	  "info": "Молодой кот, ласковый, самодостаточный"
+    },
+	{
+      "id": 9,
+      "name": "Жуля",
+	  "photoURL": "https://sun7-8.userapi.com/lDfSfuVRGfFilF16N_mmM6Ph01UorloGPcXK_g/UYXTV_kIMu4.jpg",
+	  "info": "Дама взрослая"
+    },
+	{
+      "id": 10,
+      "name": "Любаша",
+	  "photoURL": "https://sun7-7.userapi.com/R1yxq_W4oKABQCgAVFRIPjZZFvs3n_D68eBYQA/gLyQsBD7iVw.jpg",
+	  "info": "Молодая красотка"
     }
   ]
 }
